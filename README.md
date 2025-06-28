@@ -1,1 +1,3 @@
-# University-Database-Management-System
+The University Management System (UMS) is a comprehensive software solution designed to streamline and automate various administrative and academic functions within a university. 
+The system aims to enhance efficiency, reduce operational costs, and improve the overall educational experience for students, faculty, and administrative staff. The UMS integrates diverse modules including student enrollment, course management, grading systems, faculty administration, and financial management. 
+Additionally, the system includes specific classes such as login, add new information, update information, apply leave, leave details, examination management, view details, utility and logout functions. 
